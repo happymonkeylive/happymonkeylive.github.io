@@ -2,9 +2,10 @@
   "PackageValidation": {
     "PackageId": "a00002",
     "VersionOnGooglePlay": "0",
+    "EnableValidation": false,
     "PId": "9805813248638529",
-    "AId": "2782989161",
-    "BId": "3712927458",
-    "RId": "3521355762"
+    "AId": "9908757996",
+    "BId": "9600145542",
+    "RId": "4656431314"
   }
 }
