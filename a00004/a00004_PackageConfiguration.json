@@ -1,4 +1,7 @@
 {
+  "EnablePackageValidation": true,
+  "EnablePackageSetting": true,
+
   "PackageValidation": {
     "PackageId": "a00004",
     "VersionOnGooglePlay": "0",
@@ -133,5 +136,3 @@
     ]
   }
 }
-
-
