@@ -119,7 +119,7 @@
     "RelatedPackages": [
       {
         "PackageId": "a00004",
-        "PackageName": "Princess Stories",
+        "PackageName": "Princess Stories - Cinderella",
         "SourceLocation": 0,
         "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.jpg",
         "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00004",
@@ -131,7 +131,15 @@
         "SourceLocation": 1,
         "IconUrl": "https://happymonkeylive.files.wordpress.com/2022/02/x00001_icon.jpg",
         "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.x00001",
-        "IsActive": false
+        "IsActive": true
+      },
+      {
+        "PackageId": "a00001",
+        "PackageName": "Princess Stories - Snow White",
+        "SourceLocation": 1,
+        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00001",
+        "IsActive": true
       }
     ]
   }
