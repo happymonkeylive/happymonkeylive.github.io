@@ -1,8 +1,9 @@
-{ 
+{
+  "EnablePackageValidation": true,
+
   "PackageValidation": {
     "PackageId": "a00001",
     "VersionOnGooglePlay": "2022.0220.2051",
-    "EnableValidation": false,
     "PId": "9805813248638529",
     "AId": "9908757996",
     "BId": "9600145542",
@@ -18,7 +19,7 @@
       "BannerId": "ca-app-pub-9805813248638529/9600145542",
       "RewardedId": "ca-app-pub-9805813248638529/4656431314"
     },
-    "StageSettings": [ 
+    "StageSettings": [
       {
         "StageId": 0,
         "StageName": "Snow White and the Seven Dwarfs",
@@ -115,11 +116,11 @@
     ],
     "RelatedPackages": [
       {
-        "PackageId": "a00004",
-        "PackageName": "Princess Stories - Cinderella",
+        "PackageId": "a00001",
+        "PackageName": "Princess Stories - Snow White",
         "SourceLocation": 0,
-        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.jpg",
-        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00004",
+        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00001",
         "IsActive": true
       },
       {
