@@ -1,0 +1,136 @@
+{
+  "EnablePackageValidation": true,
+
+  "PackageValidation": {
+    "PackageId": "a00003",
+    "VersionOnGooglePlay": "2022.0224.2342",
+    "PId": "9805813248638529",
+    "AId": "9137882593",
+    "BId": "5613570550",
+    "RId": "5198637583"
+  },
+
+  "PackageSetting": {
+
+    "PackageId": "a00003",
+    "PackageName": "Princess Stories",
+    "AdUnitIds": {
+      "_IGNORED": "##CHECK This is the Admob IDs for Princess Stories: Mermaid",
+      "BannerId": "ca-app-pub-9805813248638529/5613570550",
+      "RewardedId": "ca-app-pub-9805813248638529/5198637583"
+    },
+    "StageSettings": [
+      {
+        "StageId": 1,
+        "StageName": "Snow White and the Seven Dwarfs",
+        "SourceLocation": 1,
+        "StageImage": "a00001_0.png",
+        "StageContent": "a00001_0.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.pdf",
+        "StageContentSize": 29292624
+
+      },
+      {
+        "StageId": 2,
+        "StageName": "Beauty and the Beast",
+        "SourceLocation": 1,
+        "StageImage": "a00001_1.png",
+        "StageContent": "a00001_1.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.pdf",
+        "StageContentSize": 30971705
+
+      },
+      {
+        "StageId": 0,
+        "StageName": "The Little Mermaid",
+        "SourceLocation": 1,
+        "StageImage": "a00001_2.png",
+        "StageContent": "a00001_2.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.pdf",
+        "StageContentSize": 29843265
+
+      },
+      {
+        "StageId": 3,
+        "StageName": "Mulan",
+        "SourceLocation": 1,
+        "StageImage": "a00001_3.png",
+        "StageContent": "a00001_3.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.pdf",
+        "StageContentSize": 31637963
+      },
+      {
+        "StageId": 4,
+        "StageName": "Cinderella",
+        "SourceLocation": 1,
+        "StageImage": "a00001_4.png",
+        "StageContent": "a00001_4.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.pdf",
+        "StageContentSize": 31979759
+      },
+      {
+        "StageId": 5,
+        "StageName": "Sleeping Beauty",
+        "SourceLocation": 1,
+        "StageImage": "a00001_5.png",
+        "StageContent": "a00001_5.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.pdf",
+        "StageContentSize": 28561805
+      },
+      {
+        "StageId": 6,
+        "StageName": "Tangled",
+        "SourceLocation": 1,
+        "StageImage": "a00001_6.png",
+        "StageContent": "a00001_6.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.pdf",
+        "StageContentSize": 24310823
+      },
+      {
+        "StageId": 7,
+        "StageName": "The Princess And The Frog",
+        "SourceLocation": 1,
+        "StageImage": "a00001_7.png",
+        "StageContent": "a00001_7.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.pdf",
+        "StageContentSize": 21344905
+      },
+      {
+        "StageId": 8,
+        "StageName": "Pocahontas",
+        "SourceLocation": 1,
+        "StageImage": "a00001_8.png",
+        "StageContent": "a00001_8.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.pdf",
+        "StageContentSize": 16064169
+      }
+    ],
+    "RelatedPackages": [
+      {
+        "PackageId": "a00003",
+        "PackageName": "Princess Stories",
+        "SourceLocation": 0,
+        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00001",
+        "IsActive": true
+      },
+      {
+        "PackageId": "x00001",
+        "PackageName": "Spot the Difference: Its A Small World",
+        "SourceLocation": 1,
+        "IconUrl": "https://happymonkeylive.files.wordpress.com/2022/02/x00001_icon.jpg",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.x00001",
+        "IsActive": true
+      }
+    ]
+  }
+}
