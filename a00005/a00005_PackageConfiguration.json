@@ -4,11 +4,11 @@
   },
   "PackageSetting": {
     "AdUnitIds": {
-      "_IGNORED": "##CHECK Princess Stories: Mulan",
+      "_IGNORED": "##CHECK Princess Stories: Snow White ##FIX",
 
-      "AppId": "ca-app-pub-9805813248638529~3996348504",
-      "BannerId": "ca-app-pub-9805813248638529/6786163370",
-      "RewardedId": "ca-app-pub-9805813248638529/2655346679"
+      "AppId": "ca-app-pub-9805813248638529~9908757996",
+      "BannerId": "ca-app-pub-9805813248638529/9600145542",
+      "RewardedId": "ca-app-pub-9805813248638529/4656431314"
     },
 
     "StageSettings": [
