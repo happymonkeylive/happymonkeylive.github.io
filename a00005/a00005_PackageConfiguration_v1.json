@@ -1,16 +1,25 @@
-{ 
+{
   "PackageValidation": {
     "VersionOnGooglePlay": "0"
   },
   "PackageSetting": {
     "AdUnitIds": {
-      "_IGNORED": "##CHECK Princess Stories: Snow White ##FIX",
-
+      "_NOTE_": "##CHECK Princess Stories: Snow White ##FIX",
       "AppId": "ca-app-pub-9805813248638529~9908757996",
       "BannerId": "ca-app-pub-9805813248638529/9600145542",
       "RewardedId": "ca-app-pub-9805813248638529/4656431314"
     },
-
+    "PackageConfig": {
+      "RewardAdCoolDownSeconds": 30,
+      "CreditEarnedAfterRewardAd": 1,
+      "FreeStageIndex": -1,
+      "InitCredit": 0,
+      "ShouldShowCompletionPercent": false,
+      "SuitableAgeMin": 3,
+      "SuitableAgeMax": 100,
+      "InitSoundEffectVolume": 0.5,
+      "InitBgmVolume": 0
+    },
     "StageSettings": [
       {
         "StageId": 1,
