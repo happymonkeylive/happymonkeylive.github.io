@@ -4,10 +4,10 @@
   },
   "PackageSetting": {
     "AdUnitIds": {
-      "_NOTE_": "##CHECK Princess Stories: Snow White",
-      "AppId": "ca-app-pub-9805813248638529~9908757996",
-      "BannerId": "ca-app-pub-9805813248638529/9600145542",
-      "RewardedId": "ca-app-pub-9805813248638529/4656431314"
+      "_NOTE_": "##CHECK Princess Stories: Beauty & Beast",
+      "AppId": "ca-app-pub-9805813248638529~8706852385",
+      "BannerId": "ca-app-pub-9805813248638529/7956236860",
+      "RewardedId": "ca-app-pub-9805813248638529/6643155190"
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
@@ -22,7 +22,7 @@
     },
     "StageSettings": [
       {
-        "StageId": 0,
+        "StageId": 1,
         "StageName": "Snow White and the Seven Dwarfs",
         "SourceLocation": 1,
         "StageImage": "a00001_0.png",
@@ -32,7 +32,7 @@
         "StageContentSize": 29292624
       },
       {
-        "StageId": 1,
+        "StageId": 0,
         "StageName": "Beauty and the Beast",
         "SourceLocation": 1,
         "StageImage": "a00001_1.png",
@@ -114,11 +114,11 @@
     ],
     "RelatedPackages": [
       {
-        "PackageId": "a00001",
-        "PackageName": "Princess Stories: Snow White",
+        "PackageId": "a00002",
+        "PackageName": "Princess Stories: Beauty & Beast",
         "SourceLocation": 0,
-        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
-        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00001",
+        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00002",
         "IsActive": true
       },
       {
