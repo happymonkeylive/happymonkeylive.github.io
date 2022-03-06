@@ -4,7 +4,7 @@
   },
   "PackageSetting": {
     "AdUnitIds": {
-      "_NOTE_": "##CHECK Princess Stories: Beauty & Beast",
+      "_NOTE_": "##CHECK Princess Stories: Mermaid",
       "AppId": "ca-app-pub-9805813248638529~9137882593",
       "BannerId": "ca-app-pub-9805813248638529/5613570550",
       "RewardedId": "ca-app-pub-9805813248638529/5198637583"
@@ -32,7 +32,7 @@
         "StageContentSize": 29292624
       },
       {
-        "StageId": 0,
+        "StageId": 2,
         "StageName": "Beauty and the Beast",
         "SourceLocation": 1,
         "StageImage": "a00001_1.png",
@@ -42,7 +42,7 @@
         "StageContentSize": 30971705
       },
       {
-        "StageId": 2,
+        "StageId": 0,
         "StageName": "The Little Mermaid",
         "SourceLocation": 1,
         "StageImage": "a00001_2.png",
@@ -114,11 +114,11 @@
     ],
     "RelatedPackages": [
       {
-        "PackageId": "a00002",
-        "PackageName": "Princess Stories: Beauty & Beast",
+        "PackageId": "a00003",
+        "PackageName": "Princess Stories: Mermaid",
         "SourceLocation": 0,
-        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
-        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00002",
+        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.jpg",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00003",
         "IsActive": true
       },
       {
