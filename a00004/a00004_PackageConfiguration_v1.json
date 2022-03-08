@@ -1,6 +1,6 @@
 {
   "PackageValidation": {
-    "VersionOnGooglePlay": "2022.0226.0020"
+    "VersionOnGooglePlay": "2022.0306.2019"
   },
   "PackageSetting": {
     "AdUnitIds": {
@@ -22,7 +22,7 @@
     },
     "StageSettings": [
       {
-        "StageId": 1,
+        "StageId": 2,
         "StageName": "Snow White and the Seven Dwarfs",
         "SourceLocation": 1,
         "StageImage": "a00001_0.png",
@@ -32,7 +32,7 @@
         "StageContentSize": 29292624
       },
       {
-        "StageId": 2,
+        "StageId": 3,
         "StageName": "Beauty and the Beast",
         "SourceLocation": 1,
         "StageImage": "a00001_1.png",
@@ -42,7 +42,7 @@
         "StageContentSize": 30971705
       },
       {
-        "StageId": 3,
+        "StageId": 4,
         "StageName": "The Little Mermaid",
         "SourceLocation": 1,
         "StageImage": "a00001_2.png",
@@ -52,7 +52,7 @@
         "StageContentSize": 29843265
       },
       {
-        "StageId": 4,
+        "StageId": 5,
         "StageName": "Mulan",
         "SourceLocation": 1,
         "StageImage": "a00001_3.png",
@@ -72,7 +72,7 @@
         "StageContentSize": 31979759
       },
       {
-        "StageId": 5,
+        "StageId": 6,
         "StageName": "Sleeping Beauty",
         "SourceLocation": 1,
         "StageImage": "a00001_5.png",
@@ -82,7 +82,7 @@
         "StageContentSize": 28561805
       },
       {
-        "StageId": 6,
+        "StageId": 7,
         "StageName": "Tangled",
         "SourceLocation": 1,
         "StageImage": "a00001_6.png",
@@ -92,7 +92,7 @@
         "StageContentSize": 24310823
       },
       {
-        "StageId": 7,
+        "StageId": 8,
         "StageName": "The Princess And The Frog",
         "SourceLocation": 1,
         "StageImage": "a00001_7.png",
@@ -102,7 +102,7 @@
         "StageContentSize": 21344905
       },
       {
-        "StageId": 8,
+        "StageId": 9,
         "StageName": "Pocahontas",
         "SourceLocation": 1,
         "StageImage": "a00001_8.png",
@@ -110,6 +110,22 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.pdf",
         "StageContentSize": 16064169
+      },
+      {
+        "StageId": 1,
+        "StageName": "Frozen",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
+        "StageContentSize": 30778514
+      },
+      {
+        "StageId": 10,
+        "StageName": "Frozen",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.pdf",
+        "StageContentSize": 17235219
       }
     ],
     "RelatedPackages": [
