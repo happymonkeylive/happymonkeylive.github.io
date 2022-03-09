@@ -126,6 +126,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.pdf",
         "StageContentSize": 17235219
+      },
+      {
+        "StageId": 11,
+        "StageName": "Donald and Mickey - The Magic Kingdom",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
+        "StageContentSize": 12785741
       }
     ],
     "RelatedPackages": [
