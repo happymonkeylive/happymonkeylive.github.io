@@ -23,7 +23,7 @@
     },
     "StageSettings": [
       {
-        "IsPreRelease": true,
+        "IsPreReleaseContent": true,
         "StageId": 0,
         "StageName": "Donald and Mickey - The Magic Kingdom",
         "SourceLocation": 1,
