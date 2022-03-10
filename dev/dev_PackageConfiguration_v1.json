@@ -1,6 +1,7 @@
 {
   "PackageValidation": {
-    "VersionOnGooglePlay": "0"
+    "VersionOnGooglePlay": "3000.0000.0000",
+    "NewVersionUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00004"
   },
   "PackageSetting": {
     "AdUnitIds": {
