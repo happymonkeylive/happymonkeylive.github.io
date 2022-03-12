@@ -23,7 +23,7 @@
     },
     "StageSettings": [
       {
-        "IsPreReleaseContent": true,
+        "AccessLevel": 1,
         "StageId": 0,
         "StageName": "Donald and Mickey - The Magic Kingdom",
         "SourceLocation": 1,
@@ -31,7 +31,15 @@
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
         "StageContentSize": 12785741
       },
-      
+      { 
+        "StageId": 1,
+        "StageName": "Published - Mickey",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
+        "StageContentSize": 12785741
+      }
+
     ],
     "RelatedPackages": [
       {
