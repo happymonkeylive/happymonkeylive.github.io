@@ -19,7 +19,8 @@
       "SuitableAgeMin": 3,
       "SuitableAgeMax": 100,
       "InitSoundEffectVolume": 0.5,
-      "InitBgmVolume": 0
+      "InitBgmVolume": 0,
+      "AdMode": 0
     },
     "StageSettings": [
       {
