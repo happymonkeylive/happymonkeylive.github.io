@@ -198,6 +198,38 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/8_sleepbeauty.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/8_walt-disney-presents-sleeping-beauty-talon-gold-key-1970.pdf",
         "StageContentSize": 8520747
+      },
+      {
+        "StageId": 20,
+        "StageName": "Summer Fun",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/9_minie1.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/9_walt-disneys-summer-fun-002-1959-c2c-walkabout-dcp.pdf",
+        "StageContentSize": 6767440
+      },
+      {
+        "StageId": 21,
+        "StageName": "Uncle Scrooge",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/10_uncle.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/10_walt-disney-treasures-uncle-scrooge.pdf",
+        "StageContentSize": 11571848
+      },
+      {
+        "StageId": 22,
+        "StageName": "Donald Duck The Mighty Trapper",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/11_duck.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/11_walt-disneys-comics-and-stories-75th.pdf",
+        "StageContentSize": 8436747
+      },
+      {
+        "StageId": 23,
+        "StageName": "Summer Fun",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/12_wof.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/12_walt-disneys-summer-fun-001-1991.pdf",
+        "StageContentSize": 2372692
       }
     ],
     "RelatedPackages": [
