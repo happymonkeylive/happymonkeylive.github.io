@@ -11,7 +11,7 @@
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
-      "CreditEarnedAfterRewardAd": 1,
+      "CreditEarnedAfterRewardAd": 9,
       "FreeStageIndex": -1,
       "InitCredit": 0,
       "ShouldShowCompletionPercent": false,
