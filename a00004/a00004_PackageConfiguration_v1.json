@@ -166,6 +166,38 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey2.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/5_walt-disney-best-comics-mickey-mouse-hc.pdf",
         "StageContentSize": 22523694
+      },
+      {
+        "StageId": 16,
+        "StageName": "The Golden Helmet",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/duck4.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/5_the-golden-helmet-2015-digital-salem-empire.pdf",
+        "StageContentSize": 9765194
+      },
+      {
+        "StageId": 17,
+        "StageName": "Sheriff",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/6_duck.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/6_sheriff-of-bullet-valley-2015-digital-salem-empire.pdf",
+        "StageContentSize": 7831537
+      },
+      {
+        "StageId": 18,
+        "StageName": "The Rain God of Uxmal",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/7_duck.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/7_walt-disney-the-rain-god-of-uxmal-1985-actioncomics-dcp.pdf",
+        "StageContentSize": 8355190
+      },
+      {
+        "StageId": 19,
+        "StageName": "The Sleepy Beauty Awaken",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/8_sleepbeauty.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/8_walt-disney-presents-sleeping-beauty-talon-gold-key-1970.pdf",
+        "StageContentSize": 8520747
       }
     ],
     "RelatedPackages": [
