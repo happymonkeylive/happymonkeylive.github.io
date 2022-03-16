@@ -132,8 +132,24 @@
         "StageName": "Donald and Mickey - The Magic Kingdom",
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
-        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/1_donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
         "StageContentSize": 12785741
+      },
+      {
+        "StageId": 12,
+        "StageName": "Duck Tales - Dime After Dime",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/duck2.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/2_ducktales-dime-after-dime-1991-actioncomics-dcp.pdf",
+        "StageContentSize": 5767914
+      },
+      {
+        "StageId": 13,
+        "StageName": "Micky & Goofy - Explore Energy",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/goofy1.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/3_mickey-mouse-and-goofy-explore-energy-1976-c2c-unl-jones.pdf",
+        "StageContentSize": 5776642
       }
     ],
     "RelatedPackages": [
