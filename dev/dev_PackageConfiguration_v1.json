@@ -31,7 +31,8 @@
         "StageContent": "a00001_0.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.pdf",
-        "StageContentSize": 29292624
+        "StageContentSize": 29292624,
+        "AccessLevel": 1
       },
       {
         "StageId": 3,
@@ -41,7 +42,8 @@
         "StageContent": "a00001_1.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.pdf",
-        "StageContentSize": 30971705
+        "StageContentSize": 30971705,
+        "AccessLevel": 1
       },
       {
         "StageId": 4,
@@ -51,7 +53,8 @@
         "StageContent": "a00001_2.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.pdf",
-        "StageContentSize": 29843265
+        "StageContentSize": 29843265,
+        "AccessLevel": 1
       },
       {
         "StageId": 5,
@@ -61,7 +64,8 @@
         "StageContent": "a00001_3.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.pdf",
-        "StageContentSize": 31637963
+        "StageContentSize": 31637963,
+        "AccessLevel": 1
       },
       {
         "StageId": 0,
@@ -71,7 +75,8 @@
         "StageContent": "a00001_4.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.pdf",
-        "StageContentSize": 31979759
+        "StageContentSize": 31979759,
+        "AccessLevel": 1
       },
       {
         "StageId": 6,
@@ -81,7 +86,8 @@
         "StageContent": "a00001_5.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.pdf",
-        "StageContentSize": 28561805
+        "StageContentSize": 28561805,
+        "AccessLevel": 1
       },
       {
         "StageId": 7,
@@ -91,7 +97,8 @@
         "StageContent": "a00001_6.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.pdf",
-        "StageContentSize": 24310823
+        "StageContentSize": 24310823,
+        "AccessLevel": 1
       },
       {
         "StageId": 8,
@@ -101,7 +108,8 @@
         "StageContent": "a00001_7.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.pdf",
-        "StageContentSize": 21344905
+        "StageContentSize": 21344905,
+        "AccessLevel": 1
       },
       {
         "StageId": 9,
@@ -111,7 +119,8 @@
         "StageContent": "a00001_8.pdf",
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.pdf",
-        "StageContentSize": 16064169
+        "StageContentSize": 16064169,
+        "AccessLevel": 1
       },
       {
         "StageId": 1,
@@ -119,7 +128,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
-        "StageContentSize": 30778514
+        "StageContentSize": 30778514,
+        "AccessLevel": 1
       },
       {
         "StageId": 10,
@@ -127,7 +137,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.pdf",
-        "StageContentSize": 17235219
+        "StageContentSize": 17235219,
+        "AccessLevel": 1
       },
       {
         "StageId": 11,
@@ -135,7 +146,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/1_donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
-        "StageContentSize": 12785741
+        "StageContentSize": 12785741,
+        "AccessLevel": 1
       },
       {
         "StageId": 12,
@@ -143,7 +155,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/duck2.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/2_ducktales-dime-after-dime-1991-actioncomics-dcp.pdf",
-        "StageContentSize": 5767914
+        "StageContentSize": 5767914,
+        "AccessLevel": 1
       },
       {
         "StageId": 13,
@@ -151,7 +164,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/goofy1.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/3_mickey-mouse-and-goofy-explore-energy-1976-c2c-unl-jones.pdf",
-        "StageContentSize": 5776642
+        "StageContentSize": 5776642,
+        "AccessLevel": 1
       },
       {
         "StageId": 14,
@@ -159,7 +173,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/duck3.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/4_walt-disney-high-jinks-on-the-matterhorn-1985-actioncomics-dcp.pdf",
-        "StageContentSize": 7652497
+        "StageContentSize": 7652497,
+        "AccessLevel": 1
       },
       {
         "StageId": 15,
@@ -167,7 +182,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey2.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/5_walt-disney-best-comics-mickey-mouse-hc.pdf",
-        "StageContentSize": 22523694
+        "StageContentSize": 22523694,
+        "AccessLevel": 1
       },
       {
         "StageId": 16,
@@ -175,7 +191,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/duck4.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/5_the-golden-helmet-2015-digital-salem-empire.pdf",
-        "StageContentSize": 9765194
+        "StageContentSize": 9765194,
+        "AccessLevel": 1
       },
       {
         "StageId": 17,
@@ -183,7 +200,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/6_duck.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/6_sheriff-of-bullet-valley-2015-digital-salem-empire.pdf",
-        "StageContentSize": 7831537
+        "StageContentSize": 7831537,
+        "AccessLevel": 1
       },
       {
         "StageId": 18,
@@ -191,7 +209,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/7_duck.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/7_walt-disney-the-rain-god-of-uxmal-1985-actioncomics-dcp.pdf",
-        "StageContentSize": 8355190
+        "StageContentSize": 8355190,
+        "AccessLevel": 1
       },
       {
         "StageId": 19,
@@ -199,7 +218,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/8_sleepbeauty.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/8_walt-disney-presents-sleeping-beauty-talon-gold-key-1970.pdf",
-        "StageContentSize": 8520747
+        "StageContentSize": 8520747,
+        "AccessLevel": 1
       },
       {
         "StageId": 20,
@@ -207,7 +227,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/9_minie1.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/9_walt-disneys-summer-fun-002-1959-c2c-walkabout-dcp.pdf",
-        "StageContentSize": 6767440
+        "StageContentSize": 6767440,
+        "AccessLevel": 1
       },
       {
         "StageId": 21,
@@ -215,7 +236,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/10_uncle.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/10_walt-disney-treasures-uncle-scrooge.pdf",
-        "StageContentSize": 11571848
+        "StageContentSize": 11571848,
+        "AccessLevel": 1
       },
       {
         "StageId": 22,
@@ -223,7 +245,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/11_duck.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/11_walt-disneys-comics-and-stories-75th.pdf",
-        "StageContentSize": 8436747
+        "StageContentSize": 8436747,
+        "AccessLevel": 1
       },
       {
         "StageId": 23,
@@ -231,7 +254,8 @@
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/12_wof.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/12_walt-disneys-summer-fun-001-1991.pdf",
-        "StageContentSize": 2372692
+        "StageContentSize": 2372692,
+        "AccessLevel": 1
       }
     ],
     "RelatedPackages": [
