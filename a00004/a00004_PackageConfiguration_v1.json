@@ -134,6 +134,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/1_donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
         "StageContentSize": 12785741
+      },
+      {
+        "StageId": 12,
+        "StageName": "Belles Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story_title.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story.pdf",
+        "StageContentSize": 1406525
       }
     ],
     "RelatedPackages": [
