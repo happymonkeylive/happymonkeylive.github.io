@@ -177,11 +177,19 @@
       },
       {
         "StageId": 17,
-        "StageName": "Jasmine''s Story",
+        "StageName": "Jasmine's Story",
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/jasmines-story.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/jasmines-story.pdf",
         "StageContentSize": 693026
+      },
+      {
+        "StageId": 18,
+        "StageName": "Aurora's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.pdf",
+        "StageContentSize": 851258
       }
     ],
     "RelatedPackages": [
