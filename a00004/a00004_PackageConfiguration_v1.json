@@ -214,6 +214,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.pdf",
         "StageContentSize": 1344741
+      },
+      {
+        "StageId": 22,
+        "StageName": "Snow White's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.pdf",
+        "StageContentSize": 1466044
       }
     ],
     "RelatedPackages": [
