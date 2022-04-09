@@ -190,6 +190,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.pdf",
         "StageContentSize": 851258
+      },
+      {
+        "StageId": 19,
+        "StageName": "Merida's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/meridas-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/meridas-story.pdf",
+        "StageContentSize": 910594
       }
     ],
     "RelatedPackages": [
