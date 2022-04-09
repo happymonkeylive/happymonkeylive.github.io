@@ -166,6 +166,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/tianas-story_title.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/tianas-story.pdf",
         "StageContentSize": 1161913
+      },
+      {
+        "StageId": 16,
+        "StageName": "Cinderella's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/cinderellas-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/cinderellas-story.pdf",
+        "StageContentSize": 1357046
       }
     ],
     "RelatedPackages": [
