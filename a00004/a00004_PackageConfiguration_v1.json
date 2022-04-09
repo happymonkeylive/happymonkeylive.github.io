@@ -206,6 +206,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/pocahontas-story.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/pocahontas-story.pdf",
         "StageContentSize": 1393218
+      },
+      {
+        "StageId": 21,
+        "StageName": "Mulan's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.pdf",
+        "StageContentSize": 1344741
       }
     ],
     "RelatedPackages": [
