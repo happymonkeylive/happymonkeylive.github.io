@@ -137,7 +137,7 @@
       },
       {
         "StageId": 12,
-        "StageName": "Belles Story",
+        "StageName": "Belles' Story",
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story_title.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story-1.pdf",
@@ -145,11 +145,19 @@
       },
       {
         "StageId": 13,
-        "StageName": "Rapunzel Story",
+        "StageName": "Rapunzel's Story",
         "SourceLocation": 1,
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/rapunzel_story.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/rapunzel_story.pdf",
         "StageContentSize": 1237147
+      },
+      {
+        "StageId": 14,
+        "StageName": "Ariel' Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/ariels-story_title.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/ariels-story.pdf",
+        "StageContentSize": 758703
       }
     ],
     "RelatedPackages": [
