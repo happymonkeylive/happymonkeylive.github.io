@@ -1,7 +1,7 @@
 {
   "PackageValidation": {
     "VersionOnGooglePlay": "0",
-    "NewVersionUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00004"
+    "NewVersionUrl": ""
   },
   "PackageSetting": {
       "AdUnitIds": {
@@ -22,26 +22,6 @@
       "InitBgmVolume": 0,
       "AdMode": 0
     },
-    "StageSettings": [
-      {
-        "StageId": 0,
-        "StageName": "Donald and Mickey - The Magic Kingdom",
-        "SourceLocation": 1,
-        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/donald.png",
-        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/walt-disneys-comics-and-stories-75th-anniversary-special-001-2015-4-62.pdf",
-        "StageContentSize": 6812530,
-        "AccessLevel": 1
-      },
-      {
-        "StageId": 1,
-        "StageName": "Donald and Mickey - The Magic Kingdom 2",
-        "SourceLocation": 1,
-        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
-        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
-        "StageContentSize": 12785741
-      }
-
-    ],
     "RelatedPackages": [
       {
         "PackageId": "a00004",
