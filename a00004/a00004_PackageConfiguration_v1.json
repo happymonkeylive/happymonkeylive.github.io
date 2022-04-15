@@ -240,6 +240,14 @@
         "IconUrl": "https://happymonkeylive.files.wordpress.com/2022/02/x00001_icon.jpg",
         "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.x00001",
         "IsActive": true
+      },
+      {
+        "PackageId": "a00002",
+        "PackageName": "2048",
+        "SourceLocation": 1,
+        "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/a00002_icon.png",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00002",
+        "IsActive": true
       }
     ]
   }
