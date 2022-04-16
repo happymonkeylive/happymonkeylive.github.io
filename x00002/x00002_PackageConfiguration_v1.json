@@ -21,7 +21,7 @@
       "InitSoundEffectVolume": 0.5,
       "InitBgmVolume": 0,
       "AdMode": 0,
-      "WebViewUrl": "https://previews.customer.envatousercontent.com/files/339754884/index.html"
+      "MainViewUrl": "https://previews.customer.envatousercontent.com/files/339754884/index.html"
     },
     "RelatedPackages": [
       {
