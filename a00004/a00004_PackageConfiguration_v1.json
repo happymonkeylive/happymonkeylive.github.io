@@ -248,6 +248,14 @@
         "IconUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/a00002_icon.png",
         "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00002",
         "IsActive": true
+      },
+      {
+        "PackageId": "a00003",
+        "PackageName": "Tower Game",
+        "SourceLocation": 1,
+        "IconUrl": "https://play-lh.googleusercontent.com/V919uyA1G3HDTVtwvh96HSOmWF9e62K8JkrlVLjfp3WY6j7jex27_8VagvHKm9ZIv4Y=s360-rw",
+        "GooglePlayUrl": "https://play.google.com/store/apps/details?id=live.happymonkey.a00003",
+        "IsActive": true
       }
     ]
   }
