@@ -13,7 +13,7 @@
       "RewardAdCoolDownSeconds": 30,
       "CreditEarnedAfterRewardAd": 1,
       "FreeStageIndex": -1,
-      "InitCredit": 0,
+      "InitCredit": 9,
       "ShouldShowCompletionPercent": false,
       "SuitableAgeMin": 3,
       "SuitableAgeMax": 100,
