@@ -21,6 +21,210 @@
       "AdMode": 1,
       "CommonConfigUrl": "https://happymonkeylive.github.io/common/CommonConfiguration_Group1_v1.json",
       "MainViewUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html"
-    }
+    },
+    "StageSettings": [
+      {
+        "StageId": 2,
+        "StageName": "Snow White and the Seven Dwarfs",
+        "SourceLocation": 1,
+        "StageImage": "a00001_0.png",
+        "StageContent": "a00001_0.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.pdf",
+        "StageContentSize": 29292624
+      },
+      {
+        "StageId": 3,
+        "StageName": "Beauty and the Beast",
+        "SourceLocation": 1,
+        "StageImage": "a00001_1.png",
+        "StageContent": "a00001_1.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.pdf",
+        "StageContentSize": 30971705
+      },
+      {
+        "StageId": 4,
+        "StageName": "The Little Mermaid",
+        "SourceLocation": 1,
+        "StageImage": "a00001_2.png",
+        "StageContent": "a00001_2.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.pdf",
+        "StageContentSize": 29843265
+      },
+      {
+        "StageId": 5,
+        "StageName": "Mulan",
+        "SourceLocation": 1,
+        "StageImage": "a00001_3.png",
+        "StageContent": "a00001_3.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.pdf",
+        "StageContentSize": 31637963
+      },
+      {
+        "StageId": 0,
+        "StageName": "Cinderella",
+        "SourceLocation": 1,
+        "StageImage": "a00001_4.png",
+        "StageContent": "a00001_4.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.pdf",
+        "StageContentSize": 31979759
+      },
+      {
+        "StageId": 6,
+        "StageName": "Sleeping Beauty",
+        "SourceLocation": 1,
+        "StageImage": "a00001_5.png",
+        "StageContent": "a00001_5.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.pdf",
+        "StageContentSize": 28561805
+      },
+      {
+        "StageId": 7,
+        "StageName": "Tangled",
+        "SourceLocation": 1,
+        "StageImage": "a00001_6.png",
+        "StageContent": "a00001_6.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.pdf",
+        "StageContentSize": 24310823
+      },
+      {
+        "StageId": 8,
+        "StageName": "The Princess And The Frog",
+        "SourceLocation": 1,
+        "StageImage": "a00001_7.png",
+        "StageContent": "a00001_7.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.pdf",
+        "StageContentSize": 21344905
+      },
+      {
+        "StageId": 9,
+        "StageName": "Pocahontas",
+        "SourceLocation": 1,
+        "StageImage": "a00001_8.png",
+        "StageContent": "a00001_8.pdf",
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.pdf",
+        "StageContentSize": 16064169
+      },
+      {
+        "StageId": 1,
+        "StageName": "Frozen",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
+        "StageContentSize": 30778514
+      },
+      {
+        "StageId": 10,
+        "StageName": "Frozen",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.pdf",
+        "StageContentSize": 17235219
+      },
+      {
+        "StageId": 11,
+        "StageName": "Donald and Mickey - The Magic Kingdom",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/1_donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
+        "StageContentSize": 12785741
+      },
+      {
+        "StageId": 12,
+        "StageName": "Belles' Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story_title.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story-1.pdf",
+        "StageContentSize": 775359
+      },
+      {
+        "StageId": 13,
+        "StageName": "Rapunzel's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/rapunzel_story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/rapunzel_story.pdf",
+        "StageContentSize": 1237147
+      },
+      {
+        "StageId": 14,
+        "StageName": "Ariel's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/ariels-story_title.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/ariels-story.pdf",
+        "StageContentSize": 758703
+      },
+      {
+        "StageId": 15,
+        "StageName": "Tiana's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/tianas-story_title.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/tianas-story.pdf",
+        "StageContentSize": 1161913
+      },
+      {
+        "StageId": 16,
+        "StageName": "Cinderella's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/cinderellas-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/cinderellas-story.pdf",
+        "StageContentSize": 1357046
+      },
+      {
+        "StageId": 17,
+        "StageName": "Jasmine's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/jasmines-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/jasmines-story.pdf",
+        "StageContentSize": 693026
+      },
+      {
+        "StageId": 18,
+        "StageName": "Aurora's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.pdf",
+        "StageContentSize": 851258
+      },
+      {
+        "StageId": 19,
+        "StageName": "Merida's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/meridas-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/meridas-story.pdf",
+        "StageContentSize": 910594
+      },
+      {
+        "StageId": 20,
+        "StageName": "Pocahontas's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/pocahontas-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/pocahontas-story.pdf",
+        "StageContentSize": 1393218
+      },
+      {
+        "StageId": 21,
+        "StageName": "Mulan's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.pdf",
+        "StageContentSize": 1344741
+      },
+      {
+        "StageId": 22,
+        "StageName": "Snow White's Story",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.png",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.pdf",
+        "StageContentSize": 1466044
+      }
+    ]
   }
 }
