@@ -230,6 +230,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_threepigs.jpg",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_thethreelittlepigs.pdf",
         "StageContentSize": 24131193
+      },
+      {
+        "StageId": 24,
+        "StageName": "Little Red Riding Hood",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood-1.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood.pdf",
+        "StageContentSize": 22594011
       }
     ],
     "RelatedPackages": [
