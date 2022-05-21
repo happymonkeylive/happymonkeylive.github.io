@@ -222,6 +222,14 @@
         "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.png",
         "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.pdf",
         "StageContentSize": 1466044
+      },
+      {
+        "StageId": 23,
+        "StageName": "The 3 Little Pigs",
+        "SourceLocation": 1,
+        "StageImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_threepigs.jpg",
+        "StageContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_thethreelittlepigs.pdf",
+        "StageContentSize": 24131193
       }
     ],
     "RelatedPackages": [
