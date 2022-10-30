@@ -8,9 +8,11 @@
       "_NOTE_": "##CHECK Sea World",
       "AppId": "ca-app-pub-9805813248638529~3717608951",
       "BannerId": "ca-app-pub-9805813248638529/7735910860",
+      "InterstitialId": "ca-app-pub-9805813248638529/8058404489",
       "RewardedId": "ca-app-pub-9805813248638529/8586792251"
     },
     "PackageConfig": {
+      "InterstitialAdCoolDownSeconds": 600,
       "RewardAdCoolDownSeconds": 30,
       "CreditEarnedAfterRewardAd": 1,
       "InitCredit": 0,
