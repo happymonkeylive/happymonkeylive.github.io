@@ -8,16 +8,12 @@
       "_NOTE_": "##CHECK Feed Pac x00005",
       "AppId": "ca-app-pub-9805813248638529~6431527857",
       "BannerId": "ca-app-pub-9805813248638529/3937226450",
+      "InterstitialId": "ca-app-pub-9805813248638529/4421406521",
       "RewardedId": "ca-app-pub-9805813248638529/8997981440"
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
-      "CreditEarnedAfterRewardAd": 1,
-      "InitCredit": 0,
-      "SuitableAgeMin": 13,
-      "SuitableAgeMax": 100,
-      "InitSoundEffectVolume": 0.5,
-      "InitBgmVolume": 0,
+      "InterstitialAdCoolDownSeconds": 600,
       "AdMode": 1,
       "MainViewUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html"
     }
