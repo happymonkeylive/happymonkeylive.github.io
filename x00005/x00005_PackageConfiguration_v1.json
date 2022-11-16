@@ -5,10 +5,10 @@
   },
   "PackageSetting": {
     "AdUnitIds": {
-      "_NOTE_": "##CHECK TEMP",
-      "AppId": "ca-app-pub-9805813248638529~3717608951",
-      "BannerId": "ca-app-pub-9805813248638529/7735910860",
-      "RewardedId": "ca-app-pub-9805813248638529/8586792251"
+      "_NOTE_": "##CHECK Feed Pac x00005",
+      "AppId": "ca-app-pub-9805813248638529~6431527857",
+      "BannerId": "ca-app-pub-9805813248638529/3937226450",
+      "RewardedId": "ca-app-pub-9805813248638529/8997981440"
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
@@ -19,7 +19,6 @@
       "InitSoundEffectVolume": 0.5,
       "InitBgmVolume": 0,
       "AdMode": 1,
-      "CommonConfigUrl": "https://happymonkeylive.github.io/common/CommonConfiguration_Group1_v1.json",
       "MainViewUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html"
     }
   }
