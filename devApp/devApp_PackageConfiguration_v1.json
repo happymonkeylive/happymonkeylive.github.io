@@ -7,9 +7,10 @@
     "AdUnitIds": {
       "_NOTE1_": "## This is the DevApp config",
       "_NOTE2_": "## The AdMob ID are for [Feed Pac]",
-      "AppId": "ca-app-pub-9805813248638529~3717608951",
-      "BannerId": "ca-app-pub-9805813248638529/7735910860",
-      "RewardedId": "ca-app-pub-9805813248638529/8586792251"
+      "AppId": "ca-app-pub-9805813248638529~6431527857",
+      "BannerId": "ca-app-pub-9805813248638529/3937226450",
+      "InterstitialId": "ca-app-pub-9805813248638529/4421406521",
+      "RewardedId": "ca-app-pub-9805813248638529/8997981440"
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
