@@ -10,11 +10,18 @@
       "BannerId": "ca-app-pub-9805813248638529/7735910860",
       "InterstitialId": "ca-app-pub-9805813248638529/8058404489",
       "RewardedId": "ca-app-pub-9805813248638529/8586792251"
-    },
+    }, 
     "PackageConfig": {
-      "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 600,
+      "RewardAdCoolDownSeconds": 30,
+      "CreditEarnedAfterRewardAd": 1,
+      "InitCredit": 0,
+      "SuitableAgeMin": 13,
+      "SuitableAgeMax": 100,
+      "InitSoundEffectVolume": 0.5,
+      "InitBgmVolume": 0,
       "AdMode": 1,
+      "CommonConfigUrl": "https://happymonkeylive.github.io/common/CommonConfiguration_Group1_v1.json",
       "MainViewUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html"
     }
   }
