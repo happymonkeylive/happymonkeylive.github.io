@@ -14,7 +14,7 @@
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
-      "InterstitialAdCoolDownSeconds": 600,
+      "InterstitialAdCoolDownSeconds": 60,
       "AdMode": 1,
       "_MainViewUrl": "https://www.google.com",
       "MainViewUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html"
