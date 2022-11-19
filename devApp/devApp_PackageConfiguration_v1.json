@@ -16,8 +16,8 @@
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 600,
       "AdMode": 1,
-      "MainViewUrl": "https://www.google.com",
-      "_MainViewUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html"
+      "_MainViewUrl": "https://www.google.com",
+      "MainViewUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html"
     }
   }
 }
