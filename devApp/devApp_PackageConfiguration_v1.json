@@ -17,10 +17,17 @@
       "InterstitialAdCoolDownSeconds": 60,
       "AdMode": 1,
       "_MainViewUrl": "https://www.google.com",
-      "MainViewUrl": "https://www.pricklegames.online/FilledGlass/",
+      "MainViewUrl": "https://demonisblack.com/code/2022/memorygame/game/",
 
-      "FilledGlassUrl": "http://www.pricklegames.online/FilledGlass/",
-      "FilledGlassHome": "https://codecanyon.net/item/filled-glass-html5-game-construct3/26408093"
+      "HappyFilledGlassHome": "https://codecanyon.net/item/happy-filled-glass-html5-game-construct3/30614270",
+      "HappyFilledGlass": "https://www.pricklegames.online/HappyFilledGlass/",
+
+      "FilledGlassUrl": "https://www.pricklegames.online/FilledGlass/",
+      "FilledGlass": "https://codecanyon.net/item/filled-glass-html5-game-construct3/26408093",
+
+      "MemoryGame": "https://codecanyon.net/item/memory-game-html5-game/36189817",
+      "MemoryGameUrl": "https://demonisblack.com/code/2022/memorygame/game/"
+
     }
   }
 }
