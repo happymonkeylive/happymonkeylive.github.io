@@ -5,7 +5,7 @@
   },
   "PackageSetting": {
     "AdUnitIds": {
-      "_NOTE1_": "## This is the 2048 Ball config",
+      "_NOTE1_": "## This is the 2048 Super Ball config",
       "_NOTE2_": "## The AdMob ID are for [Feed Pac] a00002",
       "AppId": "ca-app-pub-9805813248638529~6431527857",
       "BannerId": "ca-app-pub-9805813248638529/3521677183",
@@ -16,7 +16,7 @@
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 6000,
       "AdMode": 1, 
-      "MainViewUrl": "https://https://listpull.com/demo/index.html"
+      "MainViewUrl": "https://listpull.com/demo/index.html"
      }
   }
 }
