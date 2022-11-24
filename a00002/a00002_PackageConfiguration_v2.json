@@ -5,22 +5,18 @@
   },
   "PackageSetting": {
     "AdUnitIds": {
-      "_NOTE_": "##CHECK TEMP",
-      "AppId": "ca-app-pub-9805813248638529~3717608951",
-      "BannerId": "ca-app-pub-9805813248638529/7735910860",
-      "RewardedId": "ca-app-pub-9805813248638529/8586792251"
+      "_NOTE1_": "## This is the 2048 Ball config",
+      "_NOTE2_": "## The AdMob ID are for [Feed Pac] a00002",
+      "AppId": "ca-app-pub-9805813248638529~6431527857",
+      "BannerId": "ca-app-pub-9805813248638529/3521677183",
+      "InterstitialId": "ca-app-pub-9805813248638529/2208595510",
+      "RewardedId": "ca-app-pub-9805813248638529/4994880261"
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
-      "CreditEarnedAfterRewardAd": 1,
-      "InitCredit": 0,
-      "SuitableAgeMin": 13,
-      "SuitableAgeMax": 100,
-      "InitSoundEffectVolume": 0.5,
-      "InitBgmVolume": 0,
-      "AdMode": 1,
-      "CommonConfigUrl": "https://happymonkeylive.github.io/common/CommonConfiguration_Group1_v1.json",
-      "MainViewUrl": "https://listpull.com/demo/index.html"
-    }
+      "InterstitialAdCoolDownSeconds": 6000,
+      "AdMode": 1, 
+      "MainViewUrl": "https://https://listpull.com/demo/index.html"
+     }
   }
 }
