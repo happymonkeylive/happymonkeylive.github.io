@@ -1,0 +1,22 @@
+{
+  "PackageValidation": {
+    "VersionOnGooglePlay": "0",
+    "NewVersionUrl": ""
+  },
+  "PackageSetting": {
+    "AdUnitIds": {
+      "_NOTE1_": "## Princess Stories",
+      "_NOTE2_": "## The AdMob ID are for [Feed Pac] a00002",
+      "AppId": "ca-app-pub-9805813248638529~6431527857",
+      "BannerId": "ca-app-pub-9805813248638529/3521677183",
+      "InterstitialId": "ca-app-pub-9805813248638529/2208595510",
+      "RewardedId": "ca-app-pub-9805813248638529/4994880261"
+    },
+    "PackageConfig": {
+      "RewardAdCoolDownSeconds": 30,
+      "InterstitialAdCoolDownSeconds": 6000,
+      "AdMode": 1, 
+      "MainViewUrl": "https://listpull.com/demo/index.html"
+     }
+  }
+}
