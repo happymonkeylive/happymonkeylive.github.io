@@ -16,6 +16,7 @@
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 6000,
       "AdMode": 1,
+      "CreditEarnedAfterRewardAd": 5,
       "AccessLevel": 1
     },
     "ItemsConfig": [
