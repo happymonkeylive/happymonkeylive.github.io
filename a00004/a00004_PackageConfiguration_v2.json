@@ -19,7 +19,7 @@
       "CreditEarnedAfterRewardAd": 5,
       "AccessLevel": 1
     },
-    "ItemsConfig": [
+    "Items": [
       {
         "Name": "Snow White and the Seven Dwarfs",
         "AccessLevel": 1,
