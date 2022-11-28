@@ -16,13 +16,14 @@
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 6000,
       "AdMode": 1,
-      "CreditEarnedAfterRewardAd": 5,
+      "CreditEarnedAfterRewardAd": 9,
       "AccessLevel": 1
     },
     "Items": [ 
       {
         "Name": "Snow White's Story",
         "AccessLevel": 1,
+        "Cost": 2,
         "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.png",
         "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.pdf",
         "ContentSize": 1466044
@@ -30,6 +31,7 @@
       {
         "Name": "The 3 Little Pigs",
         "AccessLevel": 0,
+        "Cost": 1,
         "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_threepigs.jpg",
         "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_thethreelittlepigs.pdf",
         "ContentSize": 24131193
@@ -37,6 +39,7 @@
       {
         "Name": "Little Red Riding Hood",
         "AccessLevel": 0,
+        "Cost": 0,
         "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood-1.jpg",
         "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood.pdf",
         "ContentSize": 22594011
