@@ -15,7 +15,7 @@
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 6000,
-      "AdMode": 1,
+      "IsCreditRequired": 1,
       "CreditEarnedAfterRewardAd": 10,
       "AccessLevel": 1
     },
