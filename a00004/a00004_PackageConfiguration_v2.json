@@ -14,8 +14,8 @@
     },
     "PackageConfig": {
       "RewardAdCoolDownSeconds": 30,
-      "InterstitialAdCoolDownSeconds": 6000,
-      "IsCreditRequired": 1,
+      "InterstitialAdCoolDownSeconds": 60000,
+      "IsCreditRequired": true,
       "CreditEarnedAfterRewardAd": 10,
       "AccessLevel": 1
     },
