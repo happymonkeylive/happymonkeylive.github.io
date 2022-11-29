@@ -13,11 +13,11 @@
       "RewardedId": "ca-app-pub-9805813248638529/3603744068"
     },
     "PackageConfig": {
+      "CurrentAccessLevel": 1,
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 60000,
       "IsCreditRequired": true,
-      "CreditEarnedAfterRewardAd": 10,
-      "AccessLevel": 1
+      "CreditEarnedAfterRewardAd": 10
     },
     "Items": [ 
       {
