@@ -19,7 +19,7 @@
       "IsCreditRequired": true,
       "CreditEarnedAfterRewardAd": 10
     },
-    "Items": [ 
+    "Items": [
       {
         "Name": "Snow White's Story",
         "AccessLevel": 1,
@@ -28,6 +28,86 @@
         "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.pdf",
         "ContentSize": 1466044
       },
+      {
+        "Name": "Snow White and the Seven Dwarfs",
+        "AccessLevel": 1,
+        "Cost": 4,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.pdf",
+        "ContentSize": 29292624
+      },
+      {
+        "Name": "Beauty and the Beast",
+        "AccessLevel": 1,
+        "Cost": 5,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.pdf",
+        "ContentSize": 30971705
+      },
+      {
+        "Name": "The Little Mermaid",
+        "AccessLevel": 1,
+        "Cost": 2,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.pdf",
+        "ContentSize": 29843265
+      },
+      {
+        "Name": "Mulan",
+        "AccessLevel": 1,
+        "Cost": 2,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.pdf",
+        "ContentSize": 31637963
+      },
+      {
+        "Name": "Cinderella",
+        "AccessLevel": 1,
+        "Cost": 2,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.pdf",
+        "ContentSize": 31979759
+      },
+      {
+        "Name": "Sleeping Beauty",
+        "AccessLevel": 1,
+        "Cost": 2,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.pdf",
+        "ContentSize": 28561805
+      },
+      {
+        "Name": "Tangled",
+        "AccessLevel": 1,
+        "Cost": 2,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.pdf",
+        "ContentSize": 24310823
+      },
+      {
+        "Name": "The Princess And The Frog",
+        "AccessLevel": 1,
+        "Cost": 2,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.pdf",
+        "ContentSize": 21344905
+      },
+      {
+        "Name": "Pocahontas",
+        "AccessLevel": 1,
+        "Cost": 2,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.pdf",
+        "ContentSize": 16064169
+      },
+      {
+        "Name": "Frozen",
+        "AccessLevel": 1,
+        "Cost": 3,
+        "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
+        "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
+        "ContentSize": 30778514
+      }, 
       {
         "Name": "The 3 Little Pigs",
         "AccessLevel": 0,
