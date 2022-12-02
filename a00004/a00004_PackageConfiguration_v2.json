@@ -17,7 +17,13 @@
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 60000,
       "IsFreeMode": false,
-      "CreditEarnedAfterRewardAd": 10
+      "CreditEarnedAfterRewardAd": 10,
+      "BackgroundMusics": [
+        "https://happymonkeylive.github.io/content/bgm_01.mp3",
+        "https://happymonkeylive.github.io/content/bgm_02.mp3",
+        "https://happymonkeylive.github.io/content/bgm_03.mp3"
+      ]
+
     },
     "Items": [
       {
