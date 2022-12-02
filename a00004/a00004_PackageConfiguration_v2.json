@@ -16,7 +16,7 @@
       "CurrentAccessLevel": 1,
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 60000,
-      "IsCreditRequired": true,
+      "IsFreeMode": true,
       "CreditEarnedAfterRewardAd": 10
     },
     "Items": [
