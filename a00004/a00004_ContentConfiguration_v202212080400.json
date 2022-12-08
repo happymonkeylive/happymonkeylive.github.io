@@ -111,7 +111,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
       "ContentSize": 30778514,
-      "Groups": "Princess"
+      "Groups": "Princess,Xmas"
     },
     {
       "Name": "Frozen2",
@@ -120,7 +120,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.pdf",
       "ContentSize": 17235219,
-      "Groups": "Princess"
+      "Groups": "Princess,Xmas"
     },
     {
       "Name": "Belles' Story",
@@ -228,7 +228,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood-1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood.pdf",
       "ContentSize": 22594011,
-      "Groups": "Happy Stories"
+      "Groups": "Happy Stories,Funny Stories"
     },
     {
       "Name": "Donald and Mickey - The Magic Kingdom",
@@ -237,7 +237,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/1_donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
       "ContentSize": 12785741,
-      "Groups": "Comics"
+      "Groups": "Comics,Funny Stories"
     }
   ]
 }
