@@ -19,6 +19,8 @@
       "InterstitialAdCoolDownSeconds": 60000,
       "CreditEarnedAfterRewardAd": 10,
       "IsFreeMode": false,
+      "EnableBackgroundImage": false,
+      "EnableBackgroundMusic": false,
       "ShouldCacheContentConfiguration": false,
       "ContentConfigurationUrl": "https://happymonkeylive.github.io/a00004/a00004_ContentConfiguration_v202212080400.json",
       "BackgroundImages": [
