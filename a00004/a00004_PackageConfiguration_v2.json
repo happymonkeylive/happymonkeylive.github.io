@@ -18,6 +18,7 @@
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 60000,
       "CreditEarnedAfterRewardAd": 10,
+      "PrivacyUrl": "https://sites.google.com/view/happymonkeylive/happymonkey-live/privacy-policy",
       "IsFreeMode": false,
       "EnableBackgroundImage": false,
       "EnableBackgroundMusic": false,
