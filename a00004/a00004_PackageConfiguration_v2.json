@@ -14,7 +14,7 @@
     },
     "PackageConfig": {
       "StartUpMessage": "",
-      "CurrentAccessLevel": 1,
+      "CurrentAccessLevel": 0,
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 60000,
       "CreditEarnedAfterRewardAd": 10,
