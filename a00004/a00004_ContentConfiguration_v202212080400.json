@@ -248,6 +248,15 @@
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/ispy2.pdf",
       "ContentSize": 320101,
       "Groups": "I Spy"
+    },
+    {
+      "Name": "The Lion and the Mouse",
+      "AccessLevel": 0,
+      "Cost": 0,
+      "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/thelionandthemouse_icon.png",
+      "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/thelionandthemouse.pdf",
+      "ContentSize": 100560,
+      "Groups": "All time famous,Funny Stories"
     }
   ]
 }
