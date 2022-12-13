@@ -19,7 +19,7 @@
     {
       "Name": "Snow White and the Seven Dwarfs",
       "AccessLevel": 1,
-      "Cost": 4,
+      "Cost": 2,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.pdf",
       "ContentSize": 29292624,
@@ -28,7 +28,7 @@
     {
       "Name": "Beauty and the Beast",
       "AccessLevel": 1,
-      "Cost": 5,
+      "Cost": 2,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.pdf",
       "ContentSize": 30971705,
@@ -107,7 +107,7 @@
     {
       "Name": "Frozen",
       "AccessLevel": 1,
-      "Cost": 3,
+      "Cost": 2,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
       "ContentSize": 30778514,
@@ -243,7 +243,7 @@
     {
       "Name": "Hidden Objects 1",
       "AccessLevel": 0,
-      "Cost": 0,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/chrome_ekwhisuaki.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/ispy2.pdf",
       "ContentSize": 320101,
@@ -252,7 +252,7 @@
     {
       "Name": "The Lion and the Mouse",
       "AccessLevel": 0,
-      "Cost": 0,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/thelionandthemouse_icon.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/thelionandthemouse.pdf",
       "ContentSize": 100560,
