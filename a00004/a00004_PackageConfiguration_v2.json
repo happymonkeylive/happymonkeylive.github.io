@@ -20,8 +20,8 @@
       "CreditEarnedAfterRewardAd": 10,
       "PrivacyUrl": "https://sites.google.com/view/happymonkeylive/happymonkey-live/privacy-policy",
       "IsFreeMode": false,
-      "EnableBackgroundImage": false,
-      "EnableBackgroundMusic": false,
+      "EnableBackgroundImage": true,
+      "EnableBackgroundMusic": true,
       "ShouldCacheContentConfiguration": false,
       "ContentConfigurationUrl": "https://happymonkeylive.github.io/a00004/a00004_ContentConfiguration_v202212080400.json",
       "BackgroundImages": [
