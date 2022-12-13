@@ -19,6 +19,8 @@
       "InterstitialAdCoolDownSeconds": 60000,
       "CreditEarnedAfterRewardAd": 10,
       "PrivacyUrl": "https://sites.google.com/view/happymonkeylive/happymonkey-live/privacy-policy",
+      "GooglePlayUrlForAllApps": "https://play.google.com/store/apps/developer?id=HappyMonkey.LIVE",
+      "GooglePlayUrlForThisApp": "https://play.google.com/store/apps/details?id=live.happymonkey.a00004",
       "IsFreeMode": false,
       "EnableBackgroundImage": true,
       "EnableBackgroundMusic": true,
