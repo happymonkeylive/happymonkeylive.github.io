@@ -28,7 +28,10 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.pdf",
       "ContentSize": 30971705,
-      "Groups": "Princess"
+      "Groups": "Princess",
+      "BackgroundImages": [
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/bnb.jpg"
+      ]
     },
     {
       "Name": "The Little Mermaid",
@@ -37,7 +40,10 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.pdf",
       "ContentSize": 29843265,
-      "Groups": "Princess"
+      "Groups": "Princess",
+      "BackgroundImages": [
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/littlem.jpg"
+      ]
     },
     {
       "Name": "Mulan",
@@ -67,7 +73,10 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.pdf",
       "ContentSize": 28561805,
-      "Groups": "Princess"
+      "Groups": "Princess",
+      "BackgroundImages": [
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/sb.jpg"
+      ]
     },
     {
       "Name": "Tangled",
@@ -76,7 +85,10 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.pdf",
       "ContentSize": 24310823,
-      "Groups": "Princess"
+      "Groups": "Princess",
+      "BackgroundImages": [
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/tang.jpg"
+      ]
     },
     {
       "Name": "The Princess And The Frog",
@@ -103,7 +115,10 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
       "ContentSize": 30778514,
-      "Groups": "Princess,Xmas"
+      "Groups": "Princess",
+      "BackgroundImages": [
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/fro.jpg"
+      ]
     },
     {
       "Name": "Frozen2",
@@ -112,7 +127,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.pdf",
       "ContentSize": 17235219,
-      "Groups": "Princess,Xmas"
+      "Groups": "Princess"
     },
     {
       "Name": "Belles' Story",
@@ -211,7 +226,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_threepigs.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_thethreelittlepigs.pdf",
       "ContentSize": 24131193,
-      "Groups": "Funny Stories"
+      "Groups": "Happy Stories"
     },
     {
       "Name": "Little Red Riding Hood",
@@ -220,7 +235,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood-1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood.pdf",
       "ContentSize": 22594011,
-      "Groups": "Happy Stories,Funny Stories"
+      "Groups": "Happy Stories"
     },
     {
       "Name": "Donald and Mickey - The Magic Kingdom",
@@ -229,7 +244,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/1_donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
       "ContentSize": 12785741,
-      "Groups": "Comics,Funny Stories"
+      "Groups": "Comics"
     },
     
     {
@@ -248,7 +263,7 @@
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/thelionandthemouse_icon.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/thelionandthemouse.pdf",
       "ContentSize": 100560,
-      "Groups": "All time famous,Funny Stories"
+      "Groups": "All time famous"
     }
   ]
 }
