@@ -1,6 +1,7 @@
 {
   "PackageValidation": {
-    "VersionOnGooglePlay": "2022.0306.2019"
+    "VersionOnGooglePlay": "2022.1211.0600",
+    "LastVersionOnGooglePlay": "2022.0306.2019"
   },
   "PackageSetting": {
     "AdUnitIds": {
