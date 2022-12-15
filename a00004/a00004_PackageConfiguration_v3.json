@@ -1,0 +1,60 @@
+{
+  "PackageValidation": {
+    "VersionOnGooglePlay": "0",
+    "NewVersionUrl": ""
+  },
+  "PackageSetting": {
+    "AdUnitIds": {
+      "_NOTE1_": "## Princess Stories",
+      "_NOTE2_": "## The AdMob ID are for [Princess Stories]",
+      "AppId": "ca-app-pub-9805813248638529~2482234086",
+      "BannerId": "ca-app-pub-9805813248638529/7542989077",
+      "InterstitialId": "ca-app-pub-9805813248638529/7366597005",
+      "RewardedId": "ca-app-pub-9805813248638529/3603744068"
+    },
+    "PackageConfig": {
+      "StartUpMessage": "",
+      "CurrentAccessLevel": 1,
+      "RewardAdCoolDownSeconds": 30,
+      "InterstitialAdCoolDownSeconds": 60000,
+      "CreditEarnedAfterRewardAd": 10,
+      "PrivacyUrl": "https://sites.google.com/view/happymonkeylive/happymonkey-live/privacy-policy",
+      "GooglePlayUrlForAllApps": "https://play.google.com/store/apps/developer?id=HappyMonkey.LIVE",
+      "GooglePlayUrlForThisApp": "https://play.google.com/store/apps/details?id=live.happymonkey.a00004",
+      "IsFreeMode": false,
+      "EnableBackgroundImage": true,
+      "EnableBackgroundMusic": true,
+      "ShouldCacheContentConfiguration": false,
+      "ContentConfigurationUrl": "https://happymonkeylive.github.io/a00004/a00004_ContentConfiguration_v202212080400.json",
+      "BackgroundImages": [
+        "https://livehappymonkeya00001.files.wordpress.com/2022/03/dev_background.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/bnb.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/littlem.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/img_background.png",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/sb.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/tang.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/fro.jpg"
+      ],
+      "BackgroundMusics": [
+        "https://happymonkeylive.github.io/content/bgm_01.mp3",
+        "https://happymonkeylive.github.io/content/bgm_02.mp3",
+        "https://happymonkeylive.github.io/content/bgm_03.mp3",
+        "https://happymonkeylive.github.io/content/bgm_04.mp3",
+        "https://happymonkeylive.github.io/content/bgm_05.mp3",
+        "https://happymonkeylive.github.io/content/bgm_06.mp3",
+        "https://happymonkeylive.github.io/content/bgm_07.mp3",
+        "https://happymonkeylive.github.io/content/bgm_08.mp3",
+        "https://happymonkeylive.github.io/content/bgm_09.mp3",
+        "https://happymonkeylive.github.io/content/bgm_10.mp3",
+        "https://happymonkeylive.github.io/content/bgm_11.mp3",
+        "https://happymonkeylive.github.io/content/bgm_12.mp3",
+        "https://happymonkeylive.github.io/content/bgm_13.mp3",
+        "https://happymonkeylive.github.io/content/bgm_14.mp3",
+        "https://happymonkeylive.github.io/content/bgm_15.mp3",
+        "https://happymonkeylive.github.io/content/bgm_16.mp3",
+        "https://happymonkeylive.github.io/content/bgm_17.mp3"
+      ]
+
+    }
+  }
+}
