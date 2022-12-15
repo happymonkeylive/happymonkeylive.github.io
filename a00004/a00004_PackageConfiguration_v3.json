@@ -13,7 +13,9 @@
       "RewardedId": "ca-app-pub-9805813248638529/3603744068"
     },
     "PackageConfig": {
-      "StartUpMessage": "",
+      "StartUpAlertMessage": "",
+      "StartUpToastMessage": "",
+      "StartUpToastDuration": 15,
       "CurrentAccessLevel": 1,
       "RewardAdCoolDownSeconds": 30,
       "InterstitialAdCoolDownSeconds": 60000,
