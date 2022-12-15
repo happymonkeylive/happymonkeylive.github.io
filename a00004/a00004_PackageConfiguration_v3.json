@@ -13,8 +13,8 @@
       "RewardedId": "ca-app-pub-9805813248638529/3603744068"
     },
     "PackageConfig": {
-      "StartUpAlertMessage": "",
-      "StartUpToastMessage": "",
+      "StartUpAlertMessage": "Please check latest:\r\n-Issues: 123",
+      "StartUpToastMessage": "Please msg latest:\r\n-Issues: 123\r\n234",
       "StartUpToastDuration": 15,
       "CurrentAccessLevel": 1,
       "RewardAdCoolDownSeconds": 30,
