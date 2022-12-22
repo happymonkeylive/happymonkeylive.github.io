@@ -18,7 +18,7 @@
       "StartUpToastDuration": 15,
       "CurrentAccessLevel": 1,
       "RewardAdCoolDownSeconds": 30,
-      "InterstitialAdCoolDownSeconds": 60000,
+      "InterstitialAdCoolDownSeconds": 20,
       "CreditEarnedAfterRewardAd": 10,
       "PrivacyUrl": "https://sites.google.com/view/happymonkeylive/happymonkey-live/privacy-policy",
       "GooglePlayUrlForAllApps": "https://play.google.com/store/apps/developer?id=HappyMonkey.LIVE",
