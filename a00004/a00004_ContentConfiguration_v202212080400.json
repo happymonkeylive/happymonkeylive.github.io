@@ -220,6 +220,15 @@
       "Groups": "Princess"
     },
     {
+      "Name": "Cinderella Story",
+      "AccessLevel": 0,
+      "Cost": 1,
+      "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/cind.png",
+      "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/12/cind.pdf",
+      "ContentSize": 1927796,
+      "Groups": "Princess"
+    },
+    {
       "Name": "The 3 Little Pigs",
       "AccessLevel": 0,
       "Cost": 2,
