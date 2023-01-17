@@ -1,26 +1,67 @@
 {
-  "PackageValidation": {
-    "VersionOnGooglePlay": "0",
-    "NewVersionUrl": ""
-  },
   "PackageSetting": {
     "AdUnitIds": {
-      "_NOTE_": "##CHECK Feed Pac",
-      "AppId": "ca-app-pub-9805813248638529~3717608951",
-      "BannerId": "ca-app-pub-9805813248638529/7735910860",
-      "RewardedId": "ca-app-pub-9805813248638529/8586792251"
+      "_NOTE1_": "## x00003 - Feed Pac",
+      "_NOTE2_": "## The AdMob IDs are for [x00003 - Feed Pac]",
+      "AppId": "ca-app-pub-9805813248638529~6431527857",
+      "BannerId": "ca-app-pub-9805813248638529/8522438955",
+      "InterstitialId": "ca-app-pub-9805813248638529/9067318141",
+      "RewardedId": "ca-app-pub-9805813248638529/9404275789"
     },
     "PackageConfig": {
+      "ContentConfigurationUrl": "https://happymonkeylive.github.io/x00003/x00003_ContentConfiguration_v2.json",
+      "ItemAccessLevel": 1,
+      "StartUpAlertMessage": "",
+      "StartUpToastMessage": "",
+      "StartUpToastDuration": 15,
+      "IsFreeMode": true,
+      "IsAvailableBannerAd": false,
+      "IsAvailableInterstitialAd": false,
+      "IsAvailableRewardAd": true,
+      "IsAvailableOpenGooglePlayButton": true,
+      "IsAvailableShareThisAppButton": true,
+      "IsAvailableRateThisAppButton": true,
+      "IsAvailableBuyUsACoffeeButton": true,
+      "IsAvailableSettingButton": true,
+      "IsAvailableWatchAdButton": false,
+      "EnableBackgroundImage": false,
+      "EnableBackgroundMusic": true,
+      "ShouldCacheContentConfiguration": false,
+      "InterstitialAdCoolDownSeconds": 60000,
       "RewardAdCoolDownSeconds": 30,
-      "CreditEarnedAfterRewardAd": 1,
-      "InitCredit": 0,
-      "SuitableAgeMin": 13,
-      "SuitableAgeMax": 100,
-      "InitSoundEffectVolume": 0.5,
-      "InitBgmVolume": 0,
-      "AdMode": 1,
-      "CommonConfigUrl": "https://happymonkeylive.github.io/common/CommonConfiguration_Group1_v1.json",
-      "MainViewUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html"
+      "CreditEarnedAfterRewardAd": 10,
+      "PrivacyUrl": "https://happymonkeylive.github.io/common/PrivacyPolicy.html",
+      "GooglePlayUrlForAllApps": "https://play.google.com/store/apps/developer?id=HappyMonkey.LIVE",
+      "GooglePlayUrlForThisApp": "https://play.google.com/store/apps/details?id=live.happymonkey.x00003",
+      "BackgroundImages": [
+        "https://livehappymonkeya00001.files.wordpress.com/2022/03/dev_background.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/bnb.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/littlem.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/img_background.png",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/sb.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/tang.jpg",
+        "https://livehappymonkeya00001.files.wordpress.com/2022/12/fro.jpg"
+      ],
+      "BackgroundMusics": [
+        "https://happymonkeylive.github.io/content/bgm_01.mp3",
+        "https://happymonkeylive.github.io/content/bgm_02.mp3",
+        "https://happymonkeylive.github.io/content/bgm_03.mp3",
+        "https://happymonkeylive.github.io/content/bgm_04.mp3",
+        "https://happymonkeylive.github.io/content/bgm_05.mp3",
+        "https://happymonkeylive.github.io/content/bgm_06.mp3",
+        "https://happymonkeylive.github.io/content/bgm_07.mp3",
+        "https://happymonkeylive.github.io/content/bgm_08.mp3",
+        "https://happymonkeylive.github.io/content/bgm_09.mp3",
+        "https://happymonkeylive.github.io/content/bgm_10.mp3",
+        "https://happymonkeylive.github.io/content/bgm_11.mp3",
+        "https://happymonkeylive.github.io/content/bgm_12.mp3",
+        "https://happymonkeylive.github.io/content/bgm_13.mp3",
+        "https://happymonkeylive.github.io/content/bgm_14.mp3",
+        "https://happymonkeylive.github.io/content/bgm_15.mp3",
+        "https://happymonkeylive.github.io/content/bgm_16.mp3",
+        "https://happymonkeylive.github.io/content/bgm_17.mp3"
+      ]
+
     }
   }
 }
