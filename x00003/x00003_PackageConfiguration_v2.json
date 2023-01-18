@@ -15,7 +15,7 @@
       "StartUpToastMessage": "",
       "StartUpToastDuration": 15,
       "IsFreeMode": true,
-      "IsAvailableBannerAd": false,
+      "IsAvailableBannerAd": true,
       "IsAvailableInterstitialAd": false,
       "IsAvailableRewardAd": true,
       "IsAvailableOpenGooglePlayButton": true,
