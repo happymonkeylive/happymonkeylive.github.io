@@ -3,7 +3,7 @@
     {
       "Name": "Snow White's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.pdf",
       "ContentSize": 1466044,
@@ -15,7 +15,7 @@
     {
       "Name": "Snow White and the Seven Dwarfs",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_0.pdf",
       "ContentSize": 29292624,
@@ -24,7 +24,7 @@
     {
       "Name": "Beauty and the Beast",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_1.pdf",
       "ContentSize": 30971705,
@@ -36,7 +36,7 @@
     {
       "Name": "The Little Mermaid",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_2.pdf",
       "ContentSize": 29843265,
@@ -48,7 +48,7 @@
     {
       "Name": "Mulan",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_3.pdf",
       "ContentSize": 31637963,
@@ -57,7 +57,7 @@
     {
       "Name": "Cinderella",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_4.pdf",
       "ContentSize": 31979759,
@@ -69,7 +69,7 @@
     {
       "Name": "Sleeping Beauty",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_5.pdf",
       "ContentSize": 28561805,
@@ -81,7 +81,7 @@
     {
       "Name": "Tangled",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_6.pdf",
       "ContentSize": 24310823,
@@ -93,7 +93,7 @@
     {
       "Name": "The Princess And The Frog",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_7.pdf",
       "ContentSize": 21344905,
@@ -102,7 +102,7 @@
     {
       "Name": "Pocahontas",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/02/a00001_8.pdf",
       "ContentSize": 16064169,
@@ -111,7 +111,7 @@
     {
       "Name": "Frozen",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_1.pdf",
       "ContentSize": 30778514,
@@ -123,7 +123,7 @@
     {
       "Name": "Frozen2",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/frozen_2.pdf",
       "ContentSize": 17235219,
@@ -132,7 +132,7 @@
     {
       "Name": "Belles' Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story_title.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/belles-story-1.pdf",
       "ContentSize": 775359,
@@ -141,7 +141,7 @@
     {
       "Name": "Rapunzel's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/rapunzel_story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/rapunzel_story.pdf",
       "ContentSize": 1237147,
@@ -150,7 +150,7 @@
     {
       "Name": "Ariel's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/ariels-story_title.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/ariels-story.pdf",
       "ContentSize": 758703,
@@ -159,7 +159,7 @@
     {
       "Name": "Tiana's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/tianas-story_title.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/tianas-story.pdf",
       "ContentSize": 1161913,
@@ -168,7 +168,7 @@
     {
       "Name": "Cinderella's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/cinderellas-story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/cinderellas-story.pdf",
       "ContentSize": 1357046,
@@ -177,7 +177,7 @@
     {
       "Name": "Jasmine's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/jasmines-story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/jasmines-story.pdf",
       "ContentSize": 693026,
@@ -186,7 +186,7 @@
     {
       "Name": "Aurora's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/auroras-story.pdf",
       "ContentSize": 851258,
@@ -195,7 +195,7 @@
     {
       "Name": "Merida's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/meridas-story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/meridas-story.pdf",
       "ContentSize": 910594,
@@ -204,7 +204,7 @@
     {
       "Name": "Pocahontas's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/pocahontas-story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/pocahontas-story.pdf",
       "ContentSize": 1393218,
@@ -213,7 +213,7 @@
     {
       "Name": "Mulan's Story",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/mulans-story.pdf",
       "ContentSize": 1344741,
@@ -231,7 +231,7 @@
     {
       "Name": "The 3 Little Pigs",
       "AccessLevel": 0,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_threepigs.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_thethreelittlepigs.pdf",
       "ContentSize": 24131193,
@@ -240,7 +240,7 @@
     {
       "Name": "Little Red Riding Hood",
       "AccessLevel": 0,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood-1.jpg",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/05/20220521_littleredridinghood.pdf",
       "ContentSize": 22594011,
@@ -249,7 +249,7 @@
     {
       "Name": "Donald and Mickey - The Magic Kingdom",
       "AccessLevel": 1,
-      "Cost": 2,
+      "Cost": 1,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/mickey.png",
       "ContentUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/03/1_donald-and-mickey-the-magic-kingdom-collection-2016-digital-salem-empire.pdf",
       "ContentSize": 12785741,
